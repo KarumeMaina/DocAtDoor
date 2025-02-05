@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@firebase/app": "^0.9.19",
-    "@firebase/firestore": "^4.2.0",
+    "@firebase/firestore": "^4.7.5",
     "autoprefixer": "^10.4.15",
     "dotenv": "^16.3.1",
     "firebase": "^10.4.0",
